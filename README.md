@@ -9,17 +9,6 @@ The final model can forecast energy usage for better planning and resource optim
 
 ---
 
-## 📂 Project Structure
-```
-
-├── Energy\_consumption\_prediction.ipynb   # Main Jupyter Notebook with all code
-├── data/                                 # Dataset files (if applicable)
-├── README.md                             # Project documentation
-
-````
-
----
-
 ## 🚀 Features
 - Import and preprocess raw data
 - Handle missing values and outliers
@@ -62,32 +51,9 @@ The final model can forecast energy usage for better planning and resource optim
 
 ---
 
-## 📌 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/energy-consumption-prediction.git
-   cd energy-consumption-prediction
-````
-
-2. Install required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-
-   ```bash
-   jupyter notebook Energy_consumption_prediction.ipynb
-   ```
-
----
-
-
 ## 👤 Author
 
 **Sweedal Lobo**
 
 ```
 
-```
