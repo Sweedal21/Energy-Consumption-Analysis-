@@ -76,16 +76,6 @@ The final model can forecast energy usage for better planning and resource optim
 
 ---
 
-
-- **Pandas** – Data manipulation
-- **NumPy** – Numerical operations
-- **Matplotlib / Seaborn** – Data visualization
-- **Scikit-learn** – Machine learning
-- **Jupyter Notebook** – Interactive coding environment
-
-
----
-
 ## 👤 Author
 
 **Sweedal Lobo**
