@@ -1,5 +1,4 @@
 
-```markdown
 # 🔋 Energy Consumption Prediction
 
 ## 📌 Project Overview
@@ -55,5 +54,5 @@ The final model can forecast energy usage for better planning and resource optim
 
 **Sweedal Lobo**
 
-```
+
 
